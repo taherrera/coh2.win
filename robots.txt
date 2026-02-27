@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://coh2.win.sltech.cl/sitemap.xml
