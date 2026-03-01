@@ -12,5 +12,37 @@ As you can notice there are some issues right now with the website, mainly, some
 
 To change image url:
 
-find . -type f -name "\*.html" -exec sed -i 's|sites/default/files/styles/doctrine/public/2021-12/Icons\_portraits\_unit\_us\_assault\_commander\_s\_portrait5778.html|sites/default/files/game\_icons/Icons\_commander\_portrait\_us\_forces\_commander\_02\_large.png|g' {} +
+
+
+find . -type f -name "\*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/big-icon8195\\.html\\?itok=1oZlA\_rc|sites/default/files/game\_icons/Icons\_portraits\_unit\_german\_pioneer\_s\_portrait.png|g' {} +
+
+
+
+find . -type f -name "\*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/big-icon\\.html|sites/default/files/game\_icons/Icons\_portraits\_unit\_german\_pioneer\_s\_portrait.png|g' {} +
+
+
+
+
+
+find . -type f -name "\*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/Icons\_portraits\_unit\_german\_mg42\_crew\_s\_portrait557f\\.html|sites/default/files/game\_icons/Icons\_portraits\_unit\_german\_mg42\_crew\_s\_portrait.png|g' {} +
+
+
+
+
+
+find . -type f -name "\*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/Icons\_portraits\_unit\_german\_mortar\_crew\_s\_portrait6adb\\.html|sites/default/files/game\_icons/Icons\_portraits\_unit\_german\_mortar\_crew\_s\_portrait.png|g' {} +
+
+
+
+
+
+
+
+find . -type f -name "\*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/Icons\_portraits\_unit\_german\_sniper\_s\_portraitcca9\\.html|sites/default/files/game\_icons/Icons\_portraits\_unit\_german\_sniper\_s\_portrait.png|g' {} +
+
+
+
+
+
+find . -type f -name "\*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/Icons\_portraits\_unit\_german\_ostruppen\_s\_portraita765\\.html|sites/default/files/game\_icons/Icons\_portraits\_unit\_german\_ostruppen\_s\_portrait.png|g' {} +
 
