@@ -46,3 +46,17 @@ find . -type f -name "\*.html" -exec perl -pi -e 's|sites/default/files/styles/d
 
 find . -type f -name "\*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/Icons\_portraits\_unit\_german\_ostruppen\_s\_portraita765\\.html|sites/default/files/game\_icons/Icons\_portraits\_unit\_german\_ostruppen\_s\_portrait.png|g' {} +
 
+
+find . -type f -name "*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/sdkfz2509b55\.html|sites/default/files/game_icons/Icons_portraits_vehicle_german_251_halftrack_s_portrait.png|g' {} +
+
+find . -type f -name "*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_vehicle_west_german_panzer_iv_s_portrait8ae9\.html|sites/default/files/game_icons/Icons_portraits_panzer_iv_j_portrait.png|g' {} +
+
+
+find . -type f -name "*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_vehicle_west_german_234_puma_armored_car_s_portraitedcc\.html|sites/default/files/game_icons/Icons_portraits_vehicles_german_puma_s_portrait.png|g' {} +
+
+
+find . -type f -name "*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_vehicle_german_panzer_iv_command_s_portraited51\.html|sites/default/files/game_icons/Icons_portraits_vehicle_german_panzer_iv_command_s_portrait.png|g' {} +
+
+
+
+
