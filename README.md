@@ -47,15 +47,67 @@ find . -type f -name "\*.html" -exec perl -pi -e 's|sites/default/files/styles/d
 find . -type f -name "\*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/Icons\_portraits\_unit\_german\_ostruppen\_s\_portraita765\\.html|sites/default/files/game\_icons/Icons\_portraits\_unit\_german\_ostruppen\_s\_portrait.png|g' {} +
 
 
-find . -type f -name "*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/sdkfz2509b55\.html|sites/default/files/game_icons/Icons_portraits_vehicle_german_251_halftrack_s_portrait.png|g' {} +
 
-find . -type f -name "*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_vehicle_west_german_panzer_iv_s_portrait8ae9\.html|sites/default/files/game_icons/Icons_portraits_panzer_iv_j_portrait.png|g' {} +
+find . -type f -name "\*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/sdkfz2509b55.html|sites/default/files/game\_icons/Icons\_portraits\_vehicle\_german\_251\_halftrack\_s\_portrait.png|g' {} +
 
-
-find . -type f -name "*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_vehicle_west_german_234_puma_armored_car_s_portraitedcc\.html|sites/default/files/game_icons/Icons_portraits_vehicles_german_puma_s_portrait.png|g' {} +
+find . -type f -name "\*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/Icons\_portraits\_vehicle\_west\_german\_panzer\_iv\_s\_portrait8ae9.html|sites/default/files/game\_icons/Icons\_portraits\_panzer\_iv\_j\_portrait.png|g' {} +
 
 
-find . -type f -name "*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_vehicle_german_panzer_iv_command_s_portraited51\.html|sites/default/files/game_icons/Icons_portraits_vehicle_german_panzer_iv_command_s_portrait.png|g' {} +
+
+find . -type f -name "\*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/Icons\_portraits\_vehicle\_west\_german\_234\_puma\_armored\_car\_s\_portraitedcc.html|sites/default/files/game\_icons/Icons\_portraits\_vehicles\_german\_puma\_s\_portrait.png|g' {} +
+
+
+
+find . -type f -name "\*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/Icons\_portraits\_vehicle\_german\_panzer\_iv\_command\_s\_portraited51.html|sites/default/files/game\_icons/Icons\_portraits\_vehicle\_german\_panzer\_iv\_command\_s\_portrait.png|g' {} +
+
+
+
+
+
+find . -type f -name "\*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/Icons\_portraits\_vehicle\_german\_stug\_iii\_g\_s\_portraitde8c\\.html\\?itok=CaKKWwTI|sites/default/files/game\_icons/Icons\_portraits\_vehicle\_german\_stug\_iii\_g\_s\_portrait.png|g' {} +
+
+
+
+find . -type f -name "\*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/Icons\_portraits\_vehicle\_german\_panzer\_iv\_s\_portrait3314\\.html|sites/default/files/game\_icons/Icons\_portraits\_vehicle\_german\_panzer\_iv\_s\_portrait.png|g' {} +
+
+
+
+find . -type f -name "\*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/Icons\_portraits\_vehicle\_german\_ostwind\_s\_portrait3efc.html\\?itok=8JRBXp-v|sites/default/files/game\_icons/Icons\_portraits\_vehicle\_german\_ostwind\_s\_portrait.png|g' {} +
+
+
+
+find . -type f -name "\*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/Icons\_portraits\_vehicle\_german\_brummbar\_s\_portraite554\\.html\\?itok=ROxcrrwA|sites/default/files/game\_icons/Icons\_portraits\_vehicle\_german\_brummbar\_s\_portrait.png|g' {} +
+
+
+
+find . -type f -name "\*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/Icons\_portraits\_vehicle\_german\_panther\_s\_portrait0ef1\\.html\\?itok=CCxwuf\_R|sites/default/files/game\_icons/Icons\_portraits\_vehicle\_german\_panther\_s\_portrait.png|g' {} +
+
+
+
+find . -type f -name "\*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/Icons\_portraits\_vehicle\_german\_panzerwerfer\_s\_portrait6ca2\\.html\\?itok=3062ZPAn|sites/default/files/game\_icons/Icons\_portraits\_vehicle\_german\_panzerwerfer\_s\_portrait.png|g' {} +
+
+
+
+
+
+find . -type f -name "\*.html" -exec perl -pi -e 's|sites/default/files/2020-05/Icons\_portraits\_vehicle\_german\_stug\_iii\_g\_s\_portrait\\.html|sites/default/files/game\_icons/Icons\_portraits\_vehicle\_german\_stug\_iii\_g\_s\_portrait.png|g' {} +
+
+
+
+find . -type f -name "\*.html" -exec perl -pi -e 's|sites/default/files/2020-05/Icons\_symbols\_vehicle\_german\_stug\_iii\_g\_symbol.html|sites/default/files/game\_icons/Icons\_symbols\_vehicle\_german\_stug\_iii\_g\_symbol.png|g' {} +
+
+
+
+find . -type f -name "\*.html" -exec perl -pi -e 's|sites/default/files/2021-06/german-hulldown\_0\\.html|sites/default/files/game\_icons/Icons\_abilities\_ability\_german\_hulldown.png|g' {} +
+
+
+
+
+
+find . -type f -name "\*.html" -exec perl -pi -e 's|sites/default/files/styles/doctrine/public/2020-05/Icons\_portraits\_building\_german\_hintere\_panzerwerk\_s\_portraitae7e\\.html|sites/default/files/game\_icons/Icons\_portraits\_building\_german\_hintere\_panzerwerk\_s\_portrait.png|g' {} +
+
+
+
 
 
 
