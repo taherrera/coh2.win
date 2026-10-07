@@ -1,0 +1,998 @@
+{
+  "sites/default/files/2020-04/Icons_portraits_unit_german_grenadiers_s_portrait.html": {
+    "icon": "Icons_portraits_unit_german_grenadiers_s_portrait.png",
+    "status": "approved",
+    "titles": [],
+    "uses": 8
+  },
+  "sites/default/files/2020-05/1237088889_preview_Icons_buildings_building_soviet_at_mine.html": {
+    "icon": "Icons_buildings_building_soviet_at_mine.png",
+    "status": "approved",
+    "titles": [
+      "PMD-6M Light Anti-vehicle mine",
+      "Легкие противотанковые мины ПМД-6М"
+    ],
+    "uses": 17
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_aef_apds_rounds.html": {
+    "icon": "Icons_abilities_ability_aef_apds_rounds.png",
+    "status": "approved",
+    "titles": [
+      "Главное орудие: зарядить бронебойный подкалиберный",
+      "Main Gun: Load HVAP"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_aef_armor_piercing_rounds_sherman_0.html": {
+    "icon": "Icons_abilities_ability_aef_armor_piercing_rounds_sherman.png",
+    "status": "approved",
+    "titles": [
+      "Главное орудие: зарядить бронебойный",
+      "Main Gun: Load Armor Piercing"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_aef_burst_repair.html": {
+    "icon": "Icons_abilities_ability_aef_burst_repair.png",
+    "status": "approved",
+    "titles": [
+      "Repair Critical",
+      "Ремонт критических повреждений"
+    ],
+    "uses": 14
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_aef_construct_radio_beacon.html": {
+    "icon": "Icons_abilities_ability_aef_construct_radio_beacon.png",
+    "status": "approved",
+    "titles": [
+      "Установка маяка",
+      "Setup Beacon"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_aef_creeping_barrage.html": {
+    "icon": "Icons_abilities_ability_soviet_katyusha_creeping_rockets.png",
+    "status": "approved",
+    "titles": [
+      "Огневой вал",
+      "Creeping Barrage"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_aef_creeping_barrage_0.html": {
+    "icon": "Icons_abilities_ability_aef_creeping_barrage.png",
+    "status": "approved",
+    "titles": [
+      "Огневой вал",
+      "Creeping Barrage"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_aef_creeping_barrage_1.html": {
+    "status": "rejected",
+    "titles": [
+      "Creeping Barrage",
+      "Огневой вал"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_aef_delay_short_barrage.html": {
+    "icon": "Icons_abilities_ability_aef_delay_short_barrage.png",
+    "status": "approved",
+    "titles": [
+      "Огонь снарядами М56 с 3-секундным взрывателем",
+      "M56 Delayed Fuse HE Barrage"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_aef_fake_rapid_barrage-1.html": {
+    "icon": "Icons_abilities_ability_aef_fake_rapid_barrage.png",
+    "status": "approved",
+    "titles": [
+      "Ложный обстрел",
+      "Fake Rapid Barrage"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_aef_heat_rounds.html": {
+    "status": "rejected",
+    "titles": [
+      "Выстрел кумулятивным снарядом",
+      "High Explosive Anti-Tank (HEAT) Barrage"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_aef_hvap_m93_armor_piercing_rounds.html": {
+    "status": "rejected",
+    "titles": [
+      "T30E16 HVAP-T Бронебойный заряд",
+      "T30E16 HVAP-T Armor Piercing Rounds"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_aef_hvap_m93_armor_piercing_rounds_0.html": {
+    "icon": "Icons_abilities_ability_aef_hvap_m93_armor_piercing_rounds.png",
+    "status": "approved",
+    "titles": [
+      "HVAP M93 Shells",
+      "Бронебойные снаряды М93"
+    ],
+    "uses": 8
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_aef_m2_smoke_pot_0.html": {
+    "icon": "Icons_abilities_ability_aef_m2_smoke_pot.png",
+    "status": "approved",
+    "titles": [
+      "Маскирующий дым",
+      "Concealing Smoke"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_aef_mk2_pinapple_grenade_0.html": {
+    "icon": "Icons_abilities_ability_aef_mk2_pinapple_grenade.png",
+    "status": "approved",
+    "titles": [
+      "Mk 2 Frag Grenade",
+      "Осколочная граната Mk.2"
+    ],
+    "uses": 7
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_aef_mk2_pinapple_grenade_1.html": {
+    "icon": "Icons_abilities_ability_aef_mk2_pinapple_grenade.png",
+    "status": "approved",
+    "titles": [
+      "Взведенная граната Mk.2",
+      "Cooked Mk 2 Frag Grenade"
+    ],
+    "uses": 22
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_aef_on_me.html": {
+    "icon": "Icons_abilities_ability_aef_on_me.png",
+    "status": "approved",
+    "titles": [
+      "За мной!",
+      "On Me!"
+    ],
+    "uses": 8
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_aef_smoke_barrage_sherman.html": {
+    "icon": "Icons_abilities_ability_aef_smoke_barrage_sherman.png",
+    "status": "approved",
+    "titles": [
+      "Дымовая завеса",
+      "Smoke Screen"
+    ],
+    "uses": 10
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_aef_supervise.html": {
+    "icon": "Icons_abilities_ability_aef_supervise.png",
+    "status": "approved",
+    "titles": [
+      "Контроль",
+      "Supervise"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_aef_take_aim_off.html": {
+    "icon": "Icons_abilities_ability_aef_take_aim_off.png",
+    "status": "approved",
+    "titles": [
+      "Целься!",
+      "Take Aim!"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_aef_volley_fire_0.html": {
+    "icon": "Icons_abilities_ability_aef_volley_fire.png",
+    "status": "approved",
+    "titles": [
+      "Плотный огонь",
+      "Volley Fire"
+    ],
+    "uses": 8
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_aef_white_phospherous_barrage.html": {
+    "icon": "Icons_abilities_ability_aef_white_phospherous_barrage.png",
+    "status": "approved",
+    "titles": [
+      "Зажигательные боеприпасы",
+      "White Phosphorous Barrage (HEAT) Barrage"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_british_camouflaged_commando.html": {
+    "icon": "Icons_abilities_ability_british_camouflaged_commando.png",
+    "status": "approved",
+    "titles": [
+      "Ambush",
+      "(постоянно) Засада"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_british_concentrated_barrage.html": {
+    "icon": "Icons_abilities_ability_british_concentrated_barrage.png",
+    "status": "approved",
+    "titles": [
+      "Concentrated Sexton Barrage",
+      "Сосредоточенный огонь Секстонов"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_british_coordinated_volley.html": {
+    "status": "rejected",
+    "titles": [
+      "20mm Strafing Fire",
+      "Беглый огонь из 20-мм пушек"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_british_crew_repair_universal_carrier.html": {
+    "icon": "Icons_abilities_ability_british_crew_repair_universal_carrier.png",
+    "status": "approved",
+    "titles": [
+      "Crew Repair",
+      "Ремонт силами экипажа"
+    ],
+    "uses": 12
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_british_critical_shot.html": {
+    "icon": "Icons_abilities_ability_british_critical_shot.png",
+    "status": "approved",
+    "titles": [
+      "Critical Shot",
+      "Критический урон"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_british_fire_smoke_shell.html": {
+    "icon": "Icons_abilities_ability_british_fire_smoke_shell.png",
+    "status": "approved",
+    "titles": [
+      "Fire Smoke Shell",
+      "Выстрел дымовым боеприпасом"
+    ],
+    "uses": 9
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_british_light_smoke_grenade.html": {
+    "icon": "Icons_abilities_ability_british_light_smoke_grenade.png",
+    "status": "approved",
+    "titles": [
+      "Light Smoke Grenade",
+      "Легкая дымовая граната"
+    ],
+    "uses": 8
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_british_mills_grenade_0.html": {
+    "icon": "Icons_abilities_ability_british_mills_grenade.png",
+    "status": "approved",
+    "titles": [
+      "Crew Self Defense",
+      "Самозащита экипажа"
+    ],
+    "uses": 5
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_british_mills_grenade_1.html": {
+    "icon": "Icons_abilities_ability_british_mills_grenade.png",
+    "status": "approved",
+    "titles": [
+      "Throw No. 36M Mills Bomb",
+      "Бросок гранаты  No. 36М"
+    ],
+    "uses": 22
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_british_rapid_maneuvers.html": {
+    "icon": "Icons_abilities_ability_british_rapid_maneuvers.png",
+    "status": "approved",
+    "titles": [
+      "Rapid Maneuvers",
+      "Быстрые маневры"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_british_salvage.html": {
+    "icon": "Icons_abilities_ability_british_salvage.png",
+    "status": "approved",
+    "titles": [
+      "Salvage",
+      "Переработать"
+    ],
+    "uses": 8
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_british_tulip_rocket_strike.html": {
+    "icon": "Icons_abilities_ability_british_tulip_rocket_strike.png",
+    "status": "approved",
+    "titles": [
+      "Tulip Rocket Strike",
+      "Реактивные снаряды RP-3"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_british_white_phospherous_shell.html": {
+    "icon": "Icons_abilities_ability_british_white_phospherous_shell.png",
+    "status": "approved",
+    "titles": [
+      "M89 White Phosphorous Shell",
+      "Зажигательный снаряд M89"
+    ],
+    "uses": 6
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_german_phospherous_rounds.html": {
+    "status": "rejected",
+    "titles": [
+      "Suppressing Fire",
+      "Огонь на подавление"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_soviet_at_ambush_tactics_on_0.html": {
+    "icon": "Icons_abilities_ability_soviet_at_ambush_tactics_on.png",
+    "status": "approved",
+    "titles": [
+      "Tank Hunter Ambush Tactics",
+      "Тактика противотанковой засады"
+    ],
+    "uses": 18
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_soviet_at_ambush_tactics_on_1.html": {
+    "icon": "Icons_abilities_ability_soviet_at_ambush_tactics_on.png",
+    "status": "approved",
+    "titles": [
+      "Тактика противотанковых засад",
+      "Anti-Tank Gun Ambush Tactics"
+    ],
+    "uses": 66
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_soviet_demo_charge.html": {
+    "icon": "Icons_abilities_ability_soviet_demo_charge.png",
+    "status": "approved",
+    "titles": [
+      "Demolition Charge",
+      "Подрывной заряд"
+    ],
+    "uses": 15
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_soviet_evasive_tactics_on.html": {
+    "icon": "Icons_abilities_ability_soviet_evasive_tactics_on.png",
+    "status": "approved",
+    "titles": [
+      "Ложись!",
+      "Hit the Dirt!"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_soviet_kv2_combined_arms.html": {
+    "icon": "Icons_abilities_ability_soviet_kv2_combined_arms.png",
+    "status": "approved",
+    "titles": [
+      "Вдохновить пехоту",
+      "Inspire Infantry"
+    ],
+    "uses": 8
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_soviet_merge.html": {
+    "icon": "Icons_abilities_ability_soviet_merge.png",
+    "status": "approved",
+    "titles": [
+      "Слияние",
+      "Merge"
+    ],
+    "uses": 8
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_soviet_oorah.html": {
+    "icon": "Icons_abilities_ability_soviet_oorah.png",
+    "status": "approved",
+    "titles": [
+      "Ура!",
+      "Oorah!"
+    ],
+    "uses": 8
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_soviet_rgd_1_smoke_grenade.html": {
+    "icon": "Icons_abilities_ability_soviet_rgd_1_smoke_grenade.png",
+    "status": "approved",
+    "titles": [
+      "Дымовая граната РГД-1",
+      "RGD-1 Smoke Grenade"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_soviet_rpg_43_at_grenade.html": {
+    "icon": "Icons_abilities_ability_soviet_rpg_43_at_grenade.png",
+    "status": "approved",
+    "titles": [
+      "Противотанковая граната РПГ-43",
+      "RPG-43 Anti-Tank Grenade"
+    ],
+    "uses": 8
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_soviet_scorched_earch_trap.html": {
+    "icon": "Icons_abilities_ability_soviet_scorched_earch_trap.png",
+    "status": "approved",
+    "titles": [
+      "Scorched Earth Trap",
+      "Ловушка Выжженная земля"
+    ],
+    "uses": 7
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_soviet_steady_driving.html": {
+    "icon": "Icons_abilities_ability_soviet_steady_driving.png",
+    "status": "approved",
+    "titles": [
+      "Overdrive",
+      "Форсаж"
+    ],
+    "uses": 36
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_soviet_tracking.html": {
+    "icon": "Icons_abilities_ability_soviet_tracking.png",
+    "status": "approved",
+    "titles": [
+      "Отслеживание",
+      "Tracking"
+    ],
+    "uses": 14
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_step_on_it_0.html": {
+    "icon": "Icons_abilities_ability_step_on_it.png",
+    "status": "approved",
+    "titles": [
+      "Flanking Speed",
+      "Скоростной ход"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_step_on_it_1.html": {
+    "icon": "Icons_abilities_ability_step_on_it.png",
+    "status": "approved",
+    "titles": [
+      "Жми на газ!",
+      "Step On It!"
+    ],
+    "uses": 8
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_west_german_detection_off.html": {
+    "icon": "Icons_abilities_ability_west_german_detection_off.png",
+    "status": "approved",
+    "titles": [
+      "Detection",
+      "Обнаружение"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_abilities_ability_west_german_panzer_ii_luchs_prowl_off.html": {
+    "icon": "Icons_abilities_ability_west_german_panzer_ii_luchs_prowl_off.png",
+    "status": "approved",
+    "titles": [
+      "Cautious Movement",
+      "Осторожное продвижение"
+    ],
+    "uses": 6
+  },
+  "sites/default/files/2020-05/Icons_commander_cmdr_soviet_conscript_assault_package_0.html": {
+    "icon": "Icons_commander_cmdr_soviet_conscript_assault_package.png",
+    "status": "approved",
+    "titles": [
+      "Набор пистолетов-пулеметов ППШ-41",
+      "PPsh-41 Submachine Gun Package"
+    ],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_commander_cmdr_soviet_tank_awareness.html": {
+    "icon": "Icons_commander_cmdr_soviet_tank_awareness.png",
+    "status": "approved",
+    "titles": [
+      "Vehicle Detection",
+      "Обнаружение техники"
+    ],
+    "uses": 8
+  },
+  "sites/default/files/2020-05/Icons_portraits_unit_aef_assault_engineer_s_portrait.html": {
+    "icon": "Icons_portraits_unit_aef_assault_engineer_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Отряд Штурмовых Саперов",
+      "Assault Engineer Squad"
+    ],
+    "uses": 6
+  },
+  "sites/default/files/2020-05/Icons_portraits_unit_aef_captain_s_portrait.html": {
+    "icon": "Icons_portraits_unit_aef_captain_s_portrait.png",
+    "status": "approved",
+    "titles": [],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_portraits_unit_aef_lieutenant_s_portrait.html": {
+    "icon": "Icons_portraits_unit_aef_lieutenant_s_portrait.png",
+    "status": "approved",
+    "titles": [],
+    "uses": 4
+  },
+  "sites/default/files/2020-05/Icons_portraits_unit_aef_ranger_s_portrait.html": {
+    "icon": "Icons_portraits_unit_aef_ranger_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Рэйнджеры",
+      "Rangers"
+    ],
+    "uses": 8
+  },
+  "sites/default/files/2020-05/Icons_portraits_unit_german_jaeger_light_infantry_s_portrait_0.html": {
+    "icon": "Icons_portraits_unit_german_jaeger_light_infantry_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Штурмовой отряд",
+      "Stormtroopers"
+    ],
+    "uses": 9
+  },
+  "sites/default/files/2020-05/Icons_portraits_unit_german_panzer_grenadiers_s_portrait.html": {
+    "icon": "Icons_portraits_unit_german_panzer_grenadiers_s_portrait.png",
+    "status": "approved",
+    "titles": [],
+    "uses": 8
+  },
+  "sites/default/files/2020-05/Icons_portraits_unit_soviet_combat_engineer_s_portrait.html": {
+    "icon": "Icons_portraits_unit_soviet_combat_engineer_s_portrait.png",
+    "status": "approved",
+    "titles": [],
+    "uses": 7
+  },
+  "sites/default/files/2020-05/Icons_portraits_unit_soviet_conscript_s_portrait.html": {
+    "icon": "Icons_portraits_unit_soviet_conscript_s_portrait.png",
+    "status": "approved",
+    "titles": [],
+    "uses": 8
+  },
+  "sites/default/files/2020-05/Icons_portraits_unit_soviet_penal_battalion_s_portrait.html": {
+    "icon": "Icons_portraits_unit_soviet_penal_battalion_s_portrait.png",
+    "status": "approved",
+    "titles": [],
+    "uses": 6
+  },
+  "sites/default/files/2020-05/Icons_portraits_unit_west_german_volksgrenadier_s_portrait.html": {
+    "icon": "Icons_portraits_unit_west_german_volksgrenadier_s_portrait.png",
+    "status": "approved",
+    "titles": [],
+    "uses": 6
+  },
+  "sites/default/files/2020-05/Icons_portraits_vehicle_german_221_scout_car_s_portrait.html": {
+    "icon": "Icons_portraits_vehicle_german_221_scout_car_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "SdKfz 221 Scout Car",
+      "Бронеавтомобиль SdKfz 221"
+    ],
+    "uses": 6
+  },
+  "sites/default/files/2020-05/Icons_portraits_vehicle_soviet_m5_halftrack_s_portrait.html": {
+    "icon": "Icons_portraits_vehicle_soviet_m5_halftrack_s_portrait.png",
+    "status": "approved",
+    "titles": [],
+    "uses": 6
+  },
+  "sites/default/files/2020-05/Icons_symbols_unit_aef_rangers_symbol.html": {
+    "icon": "Icons_symbols_unit_aef_rangers_symbol.png",
+    "status": "approved",
+    "titles": [],
+    "uses": 6
+  },
+  "sites/default/files/2020-05/Icons_symbols_unit_german_pioneer_symbol.html": {
+    "icon": "Icons_symbols_unit_german_pioneer_symbol.png",
+    "status": "approved",
+    "titles": [],
+    "uses": 6
+  },
+  "sites/default/files/2020-05/Icons_symbols_unit_german_stormtroopers_symbol.html": {
+    "icon": "Icons_symbols_unit_german_stormtroopers_symbol.png",
+    "status": "approved",
+    "titles": [],
+    "uses": 7
+  },
+  "sites/default/files/2020-05/Icons_symbols_unit_west_german_volksgrenadiers_symbol.html": {
+    "icon": "Icons_symbols_unit_west_german_volksgrenadiers_symbol.png",
+    "status": "approved",
+    "titles": [],
+    "uses": 6
+  },
+  "sites/default/files/2020-05/Icons_symbols_vehicle_soviet_m5_halftrack_symbol.html": {
+    "icon": "Icons_symbols_vehicle_soviet_m5_halftrack_symbol.png",
+    "status": "approved",
+    "titles": [],
+    "uses": 6
+  },
+  "sites/default/files/2020-06/1237088889_preview_Icons_abilities_ability_british_ap_mine_no_3_mk1.html": {
+    "icon": "Icons_abilities_ability_british_ap_mine_no_3_mk1.png",
+    "status": "approved",
+    "titles": [
+      "Modified M6 Mine",
+      "Модифицированная мина М6"
+    ],
+    "uses": 31
+  },
+  "sites/default/files/2020-06/Icons_abilities_ability_soviet_flare.html": {
+    "icon": "Icons_abilities_ability_soviet_flare.png",
+    "status": "approved",
+    "titles": [
+      "Осветительная ракета",
+      "Flare"
+    ],
+    "uses": 7
+  },
+  "sites/default/files/2020-06/Icons_buildings_building_soviet_tank_traps_0.html": {
+    "icon": "Icons_buildings_building_soviet_tank_traps.png",
+    "status": "approved",
+    "titles": [
+      "Tank Traps",
+      "Противотанковая ловушка"
+    ],
+    "uses": 7
+  },
+  "sites/default/files/2020-06/Icons_portraits_unit_british_commando_s_portrait.html": {
+    "icon": "Icons_portraits_unit_british_commando_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Commandos",
+      "Коммандос"
+    ],
+    "uses": 6
+  },
+  "sites/default/files/2020-06/Icons_portraits_unit_british_engineer_s_portrait.html": {
+    "icon": "Icons_portraits_unit_british_engineer_s_portrait.png",
+    "status": "approved",
+    "titles": [],
+    "uses": 7
+  },
+  "sites/default/files/2020-06/Icons_portraits_unit_british_engineer_s_portrait_0.html": {
+    "icon": "Icons_portraits_unit_british_engineer_s_portrait.png",
+    "status": "approved",
+    "titles": [],
+    "uses": 8
+  },
+  "sites/default/files/2020-06/Icons_portraits_unit_british_tommy_s_portrait_2.html": {
+    "status": "rejected",
+    "titles": [
+      "Tank Hunter Infantry Section",
+      "Противотанковое пехотное отделение"
+    ],
+    "uses": 6
+  },
+  "sites/default/files/2020-06/Icons_portraits_unit_soviet_partisan_s_portrait_0.html": {
+    "icon": "Icons_portraits_unit_soviet_partisan_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Партизанские отряды",
+      "Partisan Troops"
+    ],
+    "uses": 8
+  },
+  "sites/default/files/2020-06/Icons_portraits_vehicle_british_bren_carrier_s_portrait.html": {
+    "icon": "Icons_portraits_vehicle_british_bren_carrier_s_portrait.png",
+    "status": "approved",
+    "titles": [],
+    "uses": 6
+  },
+  "sites/default/files/2020-06/Icons_portraits_vehicle_soviet_m5_halftrack_s_portrait.html": {
+    "status": "rejected",
+    "titles": [
+      "M5 Half-track Transport",
+      "Бронетранспортер М5"
+    ],
+    "uses": 6
+  },
+  "sites/default/files/2020-06/Icons_portraits_vehicle_soviet_m5_halftrack_s_portrait_0.html": {
+    "icon": "Icons_portraits_vehicle_aef_m5_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Бронетранспортер М5",
+      "M5 Half-track Transport"
+    ],
+    "uses": 6
+  },
+  "sites/default/files/2020-06/Icons_symbols_unit_west_german_panzerfusilier_symbol.html": {
+    "icon": "Icons_symbols_unit_west_german_panzerfusilier_symbol.png",
+    "status": "approved",
+    "titles": [],
+    "uses": 6
+  },
+  "sites/default/files/2020-06/Icons_symbols_vehicle_british_bren_carrier_symbol.html": {
+    "icon": "Icons_symbols_vehicle_british_bren_carrier_symbol.png",
+    "status": "approved",
+    "titles": [],
+    "uses": 6
+  },
+  "sites/default/files/2021-03/Icons_abilities_ability_raid.html": {
+    "icon": "Icons_abilities_ability_raid.png",
+    "status": "approved",
+    "titles": [
+      "Захват территории",
+      "Secure Territory"
+    ],
+    "uses": 8
+  },
+  "sites/default/files/2021-12/Icons_portraits_unit_aef_assault_rifleman_s_portrait.html": {
+    "icon": "Icons_portraits_unit_aef_assault_rifleman_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Стрелки-кавалеристы",
+      "Cavalry Riflemen"
+    ],
+    "uses": 6
+  },
+  "sites/default/files/2021-12/Icons_units_unit_aef_assault_riflemen_0.html": {
+    "status": "rejected",
+    "titles": [],
+    "uses": 6
+  },
+  "sites/default/files/2021-12/Icons_units_unit_german_assault_grenadier_update_0.html": {
+    "icon": "Icons_units_unit_german_assault_grenadier_update.png",
+    "status": "approved",
+    "titles": [],
+    "uses": 5
+  },
+  "sites/default/files/2021-12/Icons_units_unit_soviet_assault_infantry_0.html": {
+    "icon": "Icons_units_unit_soviet_assault_infantry.png",
+    "status": "approved",
+    "titles": [],
+    "uses": 8
+  },
+  "sites/default/files/2023-01/Icons_commander_cmdr_german_stuka_smoke_bomb.html": {
+    "icon": "Icons_commander_cmdr_german_stuka_smoke_bomb.png",
+    "status": "approved",
+    "titles": [
+      "Stuka Smoke Drop",
+      "Дымовая бомба Штуки"
+    ],
+    "uses": 26
+  },
+  "sites/default/files/styles/doctrine/public/2020-05/1237088889_preview_Icons_portraits_vehicle_german_251_halftrack_s_portrait_femaleeb9d.html": {
+    "icon": "Icons_portraits_vehicle_german_251_halftrack_s_portrait_female.png",
+    "status": "approved",
+    "titles": [
+      "Бронетранспортер SdKfz 251",
+      "SdKfz 251 Half-track"
+    ],
+    "uses": 12
+  },
+  "sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_building_aef_lieutenant_building_s_portrait17d4.html": {
+    "icon": "Icons_portraits_building_aef_lieutenant_building_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Командный пункт взвода",
+      "Platoon Command Post"
+    ],
+    "uses": 18
+  },
+  "sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_building_aef_major_building_s_portrait3f7f.html": {
+    "icon": "Icons_portraits_building_aef_major_building_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Батальонный командный пункт",
+      "Battalion Command Post"
+    ],
+    "uses": 8
+  },
+  "sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_building_aef_rifle_company_and_support_platoon_s_portraitc6fb.html": {
+    "icon": "Icons_portraits_building_aef_rifle_company_and_support_platoon_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Barracks",
+      "Казармы"
+    ],
+    "uses": 23
+  },
+  "sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_building_german_bereich_festung_s_portrait24be.html": {
+    "icon": "Icons_portraits_building_german_bereich_festung_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Infanterie Kompanie",
+      "Пехотная рота"
+    ],
+    "uses": 25
+  },
+  "sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_building_german_dolch_aktionen_s_portrait752c.html": {
+    "icon": "Icons_portraits_building_german_dolch_aktionen_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Leichte Mechanized Kompanie",
+      "Легкая танковая рота"
+    ],
+    "uses": 19
+  },
+  "sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_building_german_headquarters_s_portrait091e.html": {
+    "icon": "Icons_portraits_building_german_headquarters_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Kampfgruppe Headquarters",
+      "Штаб боевой группы"
+    ],
+    "uses": 31
+  },
+  "sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_building_soviet_heavy_factory_s_portraitb557.html": {
+    "icon": "Icons_portraits_building_soviet_heavy_factory_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Штаб легкой техники",
+      "Mechanized Armor Kampaneya"
+    ],
+    "uses": 6
+  },
+  "sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_building_west_german_schwerwer_panzer_hq_s_portraite5aa.html": {
+    "icon": "Icons_portraits_building_west_german_schwerwer_panzer_hq_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Mechanized Regiment Headquarters",
+      "Штаб механизированного полка"
+    ],
+    "uses": 8
+  },
+  "sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_unit_west_german_assault_pioneer_s_portrait0470.html": {
+    "icon": "Icons_portraits_unit_west_german_assault_pioneer_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Sturmpioneer Squad",
+      "Отряд штурмовых саперов"
+    ],
+    "uses": 18
+  },
+  "sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_unit_west_german_honor_guard_s_portrait9d91.html": {
+    "icon": "Icons_portraits_unit_west_german_honor_guard_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Obersoldaten",
+      "Обер-солдаты"
+    ],
+    "uses": 8
+  },
+  "sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_unit_west_german_volksgrenadier_s_portrait7f96.html": {
+    "icon": "Icons_portraits_unit_west_german_volksgrenadier_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Volksgrenadiers",
+      "Фольксгренадеры"
+    ],
+    "uses": 12
+  },
+  "sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_vehicle_german_221_scout_car_s_portrait5368.html": {
+    "icon": "Icons_portraits_vehicle_german_221_scout_car_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "SdKfz 221 Scout Car",
+      "Бронеавтомобиль SdKfz 221"
+    ],
+    "uses": 6
+  },
+  "sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_vehicle_german_222_scout_car_s_portrait3bf1.html": {
+    "icon": "Icons_portraits_vehicle_german_222_scout_car_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Бронеавтомобиль Sdkfz 222",
+      "SdKfz 222 Scout Car"
+    ],
+    "uses": 10
+  },
+  "sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_vehicle_german_elephant_tank_destroyer_s_portrait3dd7.html": {
+    "icon": "Icons_portraits_vehicle_german_elephant_tank_destroyer_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Тяжелый истребитель танков Элефант",
+      "Elefant Heavy Tank Destroyer"
+    ],
+    "uses": 6
+  },
+  "sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_vehicle_west_german_234_puma_armored_car_s_portrait_0c7bb.html": {
+    "icon": "Icons_portraits_vehicle_west_german_234_puma_armored_car_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "SdKfz 234 Puma Heavy Armored Car",
+      "Тяжелый бронеавтомобиль SdKfz 234 Пума"
+    ],
+    "uses": 6
+  },
+  "sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_vehicle_west_german_ig18_infantry_support_gun_s_portrait7873.html": {
+    "icon": "Icons_portraits_vehicle_west_german_ig18_infantry_support_gun_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "7.5cm le.IG 18 Infantry Support Gun",
+      "7.5-см легкое пехотное орудие leIG.18"
+    ],
+    "uses": 6
+  },
+  "sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_vehicle_west_german_jagdpanzer_s_portraitf23c.html": {
+    "icon": "Icons_portraits_vehicle_west_german_jagdpanzer_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Jagdpanzer IV/70 (V)",
+      "САУ Ягдпанцер IV/70 (V)"
+    ],
+    "uses": 6
+  },
+  "sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_vehicle_west_german_king_tiger_s_portrait0c0b.html": {
+    "icon": "Icons_portraits_vehicle_west_german_king_tiger_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Tiger B Königstiger",
+      "PzKpfw.VI Ausf. B Королевский тигр"
+    ],
+    "uses": 6
+  },
+  "sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_vehicle_west_german_panther_s_portrait791e.html": {
+    "icon": "Icons_portraits_vehicle_west_german_panther_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Panther PzKpfw V Medium Tank",
+      "Средний танк PzKpfw V Пантера"
+    ],
+    "uses": 8
+  },
+  "sites/default/files/styles/doctrine/public/2020-05/Icons_portraits_vehicle_west_german_panzer_iv_s_portrait_0322e.html": {
+    "icon": "Icons_portraits_vehicle_west_german_panzer_iv_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Panzer IV Ausf. J Medium Tank",
+      "Средний танк Pz.IV Ausf. J"
+    ],
+    "uses": 8
+  },
+  "sites/default/files/styles/doctrine/public/2020-06/Icons_portraits_unit_british_engineer_s_portrait_099c3.html": {
+    "icon": "Icons_portraits_unit_british_engineer_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Royal Engineer Recovery Squad",
+      "Эвакуационный отряд Королевских Саперов"
+    ],
+    "uses": 17
+  },
+  "sites/default/files/styles/doctrine/public/2020-06/Icons_portraits_unit_british_tommy_s_portrait_0a0dc.html": {
+    "status": "rejected",
+    "titles": [
+      "Vickers Heavy Machine Gun Team",
+      "Расчет пулемета Виккерс"
+    ],
+    "uses": 10
+  },
+  "sites/default/files/styles/doctrine/public/2020-06/Icons_portraits_unit_british_tommy_s_portrait_366d7.html": {
+    "status": "rejected",
+    "titles": [
+      "M1 81mm Mortar Team",
+      "Расчет 81-мм миномета М1"
+    ],
+    "uses": 8
+  },
+  "sites/default/files/styles/doctrine/public/2020-06/Icons_portraits_unit_west_german_panzerfusilier_s_portrait8486.html": {
+    "icon": "Icons_portraits_unit_west_german_panzerfusilier_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Panzerfüsilier",
+      "Панцерфузилеры",
+      "Панцерфулизеры"
+    ],
+    "uses": 6
+  },
+  "sites/default/files/styles/doctrine/public/2020-06/Icons_portraits_vehicle_german_goliath_s_portrait255d.html": {
+    "icon": "Icons_portraits_vehicle_german_goliath_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Goliath",
+      "Самоходная мина Голиаф"
+    ],
+    "uses": 18
+  },
+  "sites/default/files/styles/doctrine/public/2020-06/Icons_portraits_vehicle_german_ostwind_s_portraitb537.html": {
+    "icon": "Icons_portraits_vehicle_west_german_ostwind_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Flakpanzer IV Ostwind",
+      "FlakPz.IV Оствинд"
+    ],
+    "uses": 6
+  },
+  "sites/default/files/styles/doctrine/public/2020-06/Icons_portraits_vehicle_west_german_hetzer_s_portraitaa27.html": {
+    "icon": "Icons_portraits_vehicle_west_german_hetzer_s_portrait.png",
+    "status": "approved",
+    "titles": [
+      "Flammpanzer 38 Hetzer",
+      "FlammPz.38 Хетцер"
+    ],
+    "uses": 6
+  }
+}
